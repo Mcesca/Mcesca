@@ -1,4 +1,8 @@
-## Olá, eu sou o Mateus 👋
+<h1 align="center">Olá, eu sou o Mateus 👋</h1> <p align="center"> <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/eu.png" alt="Eu" width="200"/> </p>
+
+---
+
+## 
 
 <!--
 **Mcesca/Mcesca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
