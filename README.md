@@ -5,19 +5,26 @@
 ---
 ## Sobre mim 
 
+## Sou Mateus Cesca, estudante do curso de Desenvolvimento de Sistemas no Senai Suzana Dias. Durante minha formação, desenvolvi habilidades em lógica de programação, estrutura de dados e no desenvolvimento de aplicações web e desktop. Tenho conhecimento em linguagens como Python, JavaScript, HTML/CSS e SQL, além de experiência com ferramentas como Bootstrap, Node.js.
 
+## Participei de projetos que envolveram análise de requisitos, modelagem de sistemas e testes, o que me permitiu entender melhor o ciclo de desenvolvimento de software. Busco sempre aprender novas tecnologias e colocar em prática soluções eficientes e escaláveis que atendam às demandas do mercado.
 ---
 ## Tecnologias e ferramentas que uso
----
-## Estatísticas do GitHub
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
 ---
 ## Contato e redes
 
 linkedin:<br> 
-Email: <a href="https://www.instagram.com/mateuscesca_/">Mateuscesca</a> <br>
+Email: mateuscesca1@gmail.com <br>
 Instagram: <a href="https://www.instagram.com/mateuscesca_/">Mateuscesca</a> 
 ---
-Estatísticas do GitHub
+## Estatísticas do GitHub
 
 
 <div align="center">
