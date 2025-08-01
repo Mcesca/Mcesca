@@ -6,7 +6,7 @@
 
 ## Sou Mateus Cesca, estudante do curso de Desenvolvimento de Sistemas no Senai Suzana Dias. Durante minha formação, desenvolvi habilidades em lógica de programação, estrutura de dados e no desenvolvimento de aplicações web e desktop. Tenho conhecimento em linguagens como Python, JavaScript, HTML/CSS e SQL, além de experiência com ferramentas como Bootstrap, Node.js.
 
-## Participei de projetos que envolveram análise de requisitos, modelagem de sistemas e testes, o que me permitiu entender melhor o ciclo de desenvolvimento de software. Busco sempre aprender novas tecnologias e colocar em prática soluções eficientes e escaláveis que atendam às demandas do mercado.
+Participei de projetos que envolveram análise de requisitos, modelagem de sistemas e testes, o que me permitiu entender melhor o ciclo de desenvolvimento de software. Busco sempre aprender novas tecnologias e colocar em prática soluções eficientes e escaláveis que atendam às demandas do mercado.
 ---
 ## Tecnologias e ferramentas que uso
 
@@ -45,19 +45,11 @@ Instagram: <a href="https://www.instagram.com/mateuscesca_/">Mateuscesca</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mcesca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 ---
 
-###
-
----
 ## Frase que me inspira
-## Persevera et vince.
----
-## Sobre os Repositórios
----
-## Curiosidade
+
+## Persevera et vince. (Persevere e vença)
 ---
 
 
