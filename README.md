@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Mateus 👋</h1> <p align="center"> <img src=["https://github.com/Petinelson/Petinelson/blob/main/assets/"](https://github.com/Mcesca/Mcesca/blob/main/assets/terno.png) alt="Eu" width="200"/> </p>
+<h1 align="center">Olá, eu sou o Mateus 👋</h1> <p align="center"> <img src=https://github.com/Mcesca/Mcesca/blob/main/assets/terno.png alt="Eu" width="200"/> </p>
 
 ---
 
