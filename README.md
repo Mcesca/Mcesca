@@ -13,8 +13,9 @@
 ---
 ## Contato e redes
 
-LinkdIn:
-Email: 
+  LinkdIn: 
+  Email: 
+  Instagram: https://www.instagram.com/mateuscesca_/
 ---
 Estatísticas do GitHub
 
