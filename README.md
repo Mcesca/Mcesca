@@ -15,7 +15,7 @@
 
 LinkdIn: 
 Email:
-/n Instagram: <a href="https://www.instagram.com/mateuscesca_/">Mateuscesca</a> 
+<br>Instagram: <a href="https://www.instagram.com/mateuscesca_/">Mateuscesca</a> 
 ---
 Estatísticas do GitHub
 
