@@ -2,7 +2,6 @@
 
 ---
 
----
 ## Sobre mim 
 
 ## Sou Mateus Cesca, estudante do curso de Desenvolvimento de Sistemas no Senai Suzana Dias. Durante minha formação, desenvolvi habilidades em lógica de programação, estrutura de dados e no desenvolvimento de aplicações web e desktop. Tenho conhecimento em linguagens como Python, JavaScript, HTML/CSS e SQL, além de experiência com ferramentas como Bootstrap, Node.js.
@@ -36,6 +35,7 @@ Instagram: <a href="https://www.instagram.com/mateuscesca_/">Mateuscesca</a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
+
 ---
 ## Estatísticas do GitHub
 
