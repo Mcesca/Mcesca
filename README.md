@@ -1,4 +1,4 @@
-<h1 align="center" <span style="color:black;">Olá, eu sou o Mateus 👋</span> <p align="center"> <img src=https://github.com/Mcesca/Mcesca/blob/main/assets/47befc75-0d88-4aef-bf38-fcd0155779ee.png?raw=true width="300px"/> </p> <br>
+<h1 align="center" <span style="color:black;">Olá, eu sou o Mateus 👋</span> <p align="center"> <img src=https://github.com/Mcesca/Mcesca/blob/main/assets/47befc75-0d88-4aef-bf38-fcd0155779ee.png?raw=true width="300px"/> </p>
 
 ---
 
